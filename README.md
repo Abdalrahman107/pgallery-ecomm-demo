@@ -25,7 +25,7 @@ This project demonstrates how to structure an e-commerce frontend with filtering
 
 ---
 
-📌 **Live Demo** → [Deployed on Vercel]()
+📌 **Live Demo** → [Deployed on Vercel](https://pgallery-ecomm-demo.vercel.app/)
 
 
 
